@@ -1,4 +1,4 @@
- 👋 Halo, saya Frans (@franskbarek).
+ 👋 Halo, saya Frans <a name="nama" href="https://franskbarek.github.io">(@franskbarek).</a>
 
 <!---
 franskbarek/franskbarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
